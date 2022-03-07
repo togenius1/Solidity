@@ -93,3 +93,4 @@ describe('Lottery Contract', () => {
         assert(difference > web3.utils.toWei('1.8', 'ether'));
     });
 });
+// comment    dddd
